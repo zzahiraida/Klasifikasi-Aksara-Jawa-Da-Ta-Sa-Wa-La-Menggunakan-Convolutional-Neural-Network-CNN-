@@ -1,0 +1,2 @@
+# Klasifikasi-Aksara-Jawa-Da-Ta-Sa-Wa-La-Menggunakan-Convolutional-Neural-Network-CNN-
+CNN mampu mengklasifikasikan aksara Jawa dengan baik. Skenario exp4_skeleton menghasilkan performa terbaik dengan akurasi 97,50% dan loss 0,0730. Preprocessing berperan penting dalam meningkatkan kualitas citra dan ekstraksi fitur, sementara dropout dan augmentasi membantu mengurangi overfitting serta meningkatkan generalisasi model.
